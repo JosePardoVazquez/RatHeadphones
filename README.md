@@ -1,9 +1,9 @@
 # Rat Headphones (September 2018)
 Headphones designed for auditory psychophysics in behaving rats
 
-# Materials
+## Materials
 
-## 3D printed pieces (STL files, ready for 3D printing)
+### 3D printed pieces (STL files, ready for 3D printing)
 *	SkullBase
 *	CentralPiece
 *	LateralBar
@@ -11,7 +11,7 @@ Headphones designed for auditory psychophysics in behaving rats
 *	SpeakerBox (Back)	
 *	Connector (LateralBars2SpeakerBox)
 
-## Magnets
+### Magnets
 * B222 (for the SkullBase)
   1/8" x 1/8" x 1/8" thick
   Grade N42 - Nickel Plated
@@ -22,5 +22,5 @@ Headphones designed for auditory psychophysics in behaving rats
   Grade N42 - Nickel Plated
   Magnetized thru Thickness
 
-## Speakers
+### Speakers
 Knowles active receiver (MOD 2403 260 00031; “Petra”)
